@@ -11,3 +11,4 @@ menggunakan tabel
                     idprodi integer not null
                     )
                     """)
+Pastikan seting pada bagian user paswword port & database benar, sehingga tidak ada halangan atau error ketika kita menjalankan source code tersebut 
